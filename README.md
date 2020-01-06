@@ -1,4 +1,4 @@
-# [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw)
+# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light)
 
 **Open-Source Admin Panel** coded in **Django Framework** on top of **Light Dashboard** design. **Features**:
 
@@ -58,6 +58,7 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 
 - [Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - yTube presentation
 - [Django Framework](https://www.djangoproject.com/) - Offcial website
+- [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - Open-source and paid admin panels coded in **Django**
 
 <br />
 
@@ -68,4 +69,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
 <br />
 
 ---
-[Django Dashboard Light](https://www.youtube.com/watch?v=4b60fIglgTw) - provided by **AppSeed**
+# [Django Dashboard Light](https://appseed.us/admin-dashboards/django-dashboard-light) - provided by **AppSeed**
